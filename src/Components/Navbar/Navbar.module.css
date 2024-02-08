@@ -1,0 +1,19 @@
+.name {
+    font-weight: 700 !important;
+    cursor: pointer;
+    font-size: 20px !important;
+  }
+.myNavbar{
+    padding: 15px !important;
+    background-color: #0b0e12;
+    border-bottom: 1px solid transparent ;
+    border-image:linear-gradient(45deg,red,blue) 15;
+    z-index: 999999;
+    color: #575c66 !important;
+}
+.mynavLink{
+    font-family: "Open Sans";
+    font-size:20px !important ;
+    font-weight: 500 !important ;
+    /* color: black !important; */
+}

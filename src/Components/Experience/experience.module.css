@@ -1,0 +1,25 @@
+.my_info{
+    font-weight: bold;
+    color: #0b0e12;
+}
+.content p{
+        font-size: 20px;
+        line-height: 40px;
+}
+.border_mix{
+    /* background-image: -webkit-linear-gradient(90deg, #FFF 50%, #0b0e12 50%); */
+ 
+    border: 2px solid transparent;
+    border-image:linear-gradient(45deg,red,blue) 10;
+}
+.exper{
+    padding-top:1.5rem ;
+    /* clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 100% 98%, 0px 100%) !important; */
+}
+
+.flex_header{
+flex: 0 1 auto;
+}
+.flex_body{
+flex: 1 1 auto;
+}

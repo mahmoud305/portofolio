@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg enable-background="new 0 0 24 24" version="1.1" viewBox="0 0 24 24" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<style type="text/css">
+	.st0{fill:none;stroke:#303C42;stroke-linecap:round;stroke-linejoin:round;}
+</style>
+<title>Pencil with Ruler</title>
+
+	<g fill="none" stroke="#303C42" stroke-linecap="round" stroke-linejoin="round">
+		<path class="st0" d="m3.5 15.5 13.4-13.6c0.6-0.6 1.5-0.6 2.1 0l3 3c0.6 0.6 0.6 1.5 0 2.1l-13.5 13.5-7 2 2-7z"/>
+		<line class="st0" x1="19.5" x2="14.4" y1="9.6" y2="4.5"/>
+		<polyline class="st0" points="8.5 20.5 8.5 18.5 6.5 17.5 5.5 15.5 3.5 15.5"/>
+		<line class="st0" x1="5.5" x2="2.6" y1="21.4" y2="18.5"/>
+		<line class="st0" x1="17" x2="6.5" y1="7" y2="17.5"/>
+		
+			<polyline class="st0" points="7 12 1.5 6.5 6.5 1.5 12 7"/>
+			<polyline class="st0" points="17 12 22.5 17.5 17.5 22.5 12 17"/>
+		
+		<line class="st0" x1="15.5" x2="17.5" y1="20.5" y2="18.5"/>
+		<line class="st0" x1="13.5" x2="15.5" y1="18.5" y2="16.5"/>
+		<line class="st0" x1="5.5" x2="7.5" y1="10.5" y2="8.5"/>
+		<line class="st0" x1="3.5" x2="5.5" y1="8.5" y2="6.5"/>
+	</g>
+
+
+	<metadata>
+		<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:date="2017-02-16" dc:description="design; pencil; ruler; grid; guide" dc:format="image/svg+xml" dc:language="en" dc:publisher="Iconscout" dc:title="design; pencil; ruler; grid; guide">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Alpár - Etele Méder</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>
