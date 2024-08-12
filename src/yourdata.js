@@ -31,7 +31,7 @@ import proj4 from "./images/proj4.PNG"
 import proj5 from "./images/proj5.PNG"
 import proj6 from "./images/proj6.PNG"
 import backend from "./images/backend.PNG"
-import me from "./images/me22.png"
+import me from "./images/me0.jpg"
 
 
 export default {
@@ -53,7 +53,7 @@ export default {
     "eager to enhance my experience in the SWE field as well as the business field and to gain as much valuable knowledge as possible.",
 
   //Contact Email
-  contactEmail: "ma5027300@gmail.com",
+  contactEmail: "mahmoud.abohgrr@gmail.com",
 
   // End Header Details -----------------------
 
@@ -63,7 +63,7 @@ export default {
     {
       company:"Euroasia -Mighty Group-",
       title:"Software Engineer | Frontend Developer",
-      startDate:"January 2022",
+      startDate:"September 2022",
       endDate:"October 2022",
       gainedSkills:["Used React.js, JavaScript, bootstrap, HTML5 and CSS3 to build the UI pages and custom actions.",
       "Used Redux to update and maintain data for online shopping website.",
@@ -94,7 +94,7 @@ export default {
         `, // Add Your Service Type Here
 
       imageSrc: proj9,      //Project Image - Add Your Project Image Here
-      url: "https://github.com/mahmoud305/Blog-App-API",//Project URL - Add Your Project Url Here
+      url: "https://task-manager-v1.cyclic.app/",//Project URL - Add Your Project Url Here
     },
     {
       title: "News-Letter", //Project Title - Add Your Project Title Here
@@ -127,7 +127,7 @@ export default {
          `, // Add Your Service Type Here
 
       imageSrc: backend,      //Project Image - Add Your Project Image Here
-      url: "https://github.com/mahmoud305/image-resize-api",//Project URL - Add Your Project Url Here
+      url: "https://github.com/mahmoud305/share-screen-app",//Project URL - Add Your Project Url Here
     },
     {
       title: "Blog API ", //Project Title - Add Your Project Title Here
@@ -224,10 +224,10 @@ export default {
 
   profileName: "Mahmoud Ashraf Ali Abo-Hgr",
   profileRule: "Software Engineer ",
-  profileEmial: "ma5027300@gmail.com",
+  profileEmial: "mahmoud.abohgrr@gmail.com",
   profilePhone: "(002) 01102488789",
   aboutParaOne:
-    "I'm Mahmoud Ashraf Ali Abo-Hgr , a 4th year student at faculty of computer and artificial intelligence ,Cario university.",
+    "I'm Mahmoud Ashraf Ali Abo-Hgr , fresh Software Engineer who graduated at 2022 from Faculty of Computer Science and Artificial Intelligence, Cairo University- with GPA: 3.36.  I finished my military service on 1/12/2023",
   aboutParaTwo:
     `I like to code things from scratch, and enjoy bringing ideas to life. I genuinely care about people, appreciate the teamwork,
     I look forward working with different types of people as well as learning new tools and techniques .\n\n`,
@@ -394,4 +394,4 @@ export default {
   // End Contact Section ---------------
 }
 
-// Thanks for using this template, I would love to hear from you contact me at hello@chetanverma.com
+// Thanks for using this template, I would love to hear from you contact me at ma5027300@gmail.com

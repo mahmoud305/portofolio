@@ -8,7 +8,7 @@ export default function About() {
             <Fade bottom cascade>  <h1 className="pageHeader monstFont" >About Me</h1> </Fade>
             <div className="container">
                 <div className="row">
-                    <div className="col-md-6 ms-auto  d-flex alig-items-center monstFont ">
+                    <div className="col-lg-6 ms-auto  d-flex alig-items-center monstFont ">
                         <div className={`text-start my-auto  ${style.content} p-1 `}>
                             <p class="">Name: <span class={`${style.my_info}`}>  {data.profileName}</span> </p>
                             <p class="">Profile:  <span class={`${style.my_info}`}> {data.profileRule} </span></p>
@@ -20,9 +20,9 @@ export default function About() {
                             <p>{data.aboutParaTwo} </p>
                         </div>
                     </div>
-                    <div className="col-md-4 me-auto">
-                        <div className={`${style.image_wrapper}`}>
-                            <img src={data.aboutImage} alt="Mahmoud Ashraf" className=""></img>
+                    <div className="col-lg-4 me-auto">
+                        <div className={`${style.image_wrapper} bg-dark `}>
+                            <img className="w-100" src={data.aboutImage} alt="Mahmoud Ashraf"  ></img>
                         </div>
                     </div>
                 </div>

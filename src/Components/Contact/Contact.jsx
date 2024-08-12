@@ -30,7 +30,7 @@ export default function Contact() {
                     </div>
                     {/* <span>
             Made With <icon>❤</icon> by{" "}
-            <a href="https://www.chetanverma.com/">Chetan Verma</a>
+            <a href=" ">Mahmoud Abo-Hgr</a>
           </span> */}
                 </div>
             </div>
